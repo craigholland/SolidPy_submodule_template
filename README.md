@@ -1,2 +1,2 @@
-# SolidPy_submodule_template
-Base template for Solidpy submodules
+# solidpy submodule template
+base structure for SolidPy python submodules
